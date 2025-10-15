@@ -20,7 +20,7 @@ Multimodal data fusion can generate reliable fault representations for intellige
 ##  Proposed Network 
 
 
-![image](https://github.com/CHAOZHAO-1/MUGTN/blob/main/IMG/F1.png)
+![image](https://github.com/CHAOZHAO-1/MUGTN/blob/main/IMG1/F1.png)
 
 ##  BibTex Citation
 

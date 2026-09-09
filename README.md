@@ -1,6 +1,4 @@
-# MUGTN
-
-![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=CHAOZHAO-1.MUGTN&color=blue&style=flat-square)
+# MUGTN ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=CHAOZHAO-1.MUGTN&color=blue&style=flat-square)
 
 ## HUST motor multimodal dataset
 

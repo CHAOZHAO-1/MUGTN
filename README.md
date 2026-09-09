@@ -2,10 +2,8 @@
 
 ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=CHAOZHAO-1.MUGTN&color=blue&style=flat-square)
 
-
 Our open-source HUST motor multimodal dataset is at：https://github.com/CHAOZHAO-1/HUSTmotor-multi-modal-dataset.
 
-# MUGTN
 [EAAI 2025] Multimodal unified generalization and translation network for intelligent fault diagnosis under dynamic environments
 
 
